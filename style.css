@@ -1,0 +1,8 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Jost:ital,wght@0,200;0,400;0,600;1,300&family=Libre+Baskerville&family=Raleway:wght@500&display=swap');
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 5px;
+    /* font-family: 'Libre Baskerville', serif; */
+}
